@@ -1,0 +1,16 @@
+{
+  "name": "awsnodes3",
+  "version": "1.0.0",
+  "description": "aws s3 upload download in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koushik Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.293.0",
+    "jimp": "^0.3.5",
+    "uuid": "^3.3.2"
+  }
+}
